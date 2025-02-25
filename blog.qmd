@@ -1,5 +1,5 @@
 ---
-title: "Blog of TQDM"
+title: "blog of TQDM"
 listing:
   contents: posts
   sort: "date desc"

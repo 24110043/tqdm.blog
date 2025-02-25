@@ -1,4 +1,4 @@
-# quarto-template
+# Blog of TQDMS
 ---
 title: "TQDM Blog"
 author:

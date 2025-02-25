@@ -1,5 +1,5 @@
 ---
-title: Blog of TQDM
+title: blog of TQDM
 ---
 
 Quarto template Text!
